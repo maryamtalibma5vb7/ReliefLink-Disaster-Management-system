@@ -1,0 +1,33 @@
+RELIEFLINK RUN GUIDE
+====================
+
+A) DATABASE SETUP
+1. Open SQL Server Management Studio.
+2. Connect to DESKTOP-1NHQSUD\SQLEXPRESS01.
+3. Open database/ReliefLink_Database.sql.
+4. Execute the full script.
+5. Confirm database ReliefLinkDB is created.
+
+B) BACKEND SETUP
+1. Open terminal in backend folder.
+2. Run: npm install
+3. Run: npm start
+4. Test in browser: http://localhost:5000
+5. Expected response: ReliefLink API is running and SQL Server is connected.
+
+C) FRONTEND SETUP
+1. Open terminal in frontend folder.
+2. Run: npm install
+3. Run: npm start
+4. Open: http://localhost:3000
+
+D) LOGIN
+Email: admin@relieflink.com
+Password: admin123
+
+E) TROUBLESHOOTING
+- If SQL connection fails, install Microsoft ODBC Driver 17 for SQL Server.
+- Check SQL Server service is running.
+- Check SQL Server Browser service if named instance cannot be found.
+- Ensure backend/.env DB_SERVER matches your SQL Server instance. If the instance name includes a backslash, wrap the value in quotes and escape it in .env.
+- If Windows trusted connection fails, create SQL login and add DB_USER and DB_PASSWORD.

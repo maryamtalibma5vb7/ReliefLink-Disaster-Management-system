@@ -1,0 +1,26 @@
+PROJECT REQUIREMENT COVERAGE
+============================
+
+Requirement: Manage disasters
+Covered by Disasters table, DisasterTypes table, Disasters frontend page and /api/disasters routes.
+
+Requirement: Manage ambulances, shelters and food supplies
+Covered by Ambulances, Shelters and FoodSupplies tables, Resources frontend page and /api/resources routes.
+
+Requirement: Efficient allocation of resources
+Covered by Allocations table and sp_AllocateReliefResources stored procedure. The procedure validates availability, deducts food quantity, reduces shelter capacity, changes ambulance status and saves allocation history inside a transaction.
+
+Requirement: Reports and data analysis
+Covered by vw_DashboardStats, vw_AllocationReport, Reports page and Dashboard page.
+
+Requirement: SQL Server structured DBMS
+Covered by normalized tables, primary keys, foreign keys, check constraints, unique constraints, views, stored procedure, function, trigger and indexes.
+
+Requirement: Real-time monitoring
+Dashboard fetches current SQL Server resource availability and allocation data through backend API.
+
+Requirement: Security
+Login/signup uses bcrypt password hashing for new users and JWT token generation. Seeded demo users are supported for academic testing.
+
+Requirement: Professional frontend
+Frontend uses Bootstrap 5, Bootstrap Icons, responsive layout, custom dashboard panels and SVG illustrations related to disaster management.

@@ -1,0 +1,54 @@
+ReliefLink Professional Website Update
+
+Updated frontend files:
+1. frontend/src/pages/Login.js
+   - Professional image-based login screen
+   - Ambulance, food and shelter feature cards
+   - SQL Server connection test retained
+   - Demo admin credentials retained
+
+2. frontend/src/pages/Signup.js
+   - Professional background image
+   - Role selection added: Admin, Operator, Viewer
+   - Explains role purpose on screen
+
+3. frontend/src/pages/Dashboard.js
+   - Modern metrics dashboard similar to professional dashboard templates
+   - Recharts Area Chart for allocation trend
+   - Recharts Pie Chart for resource availability
+   - Recharts Bar Chart for disaster type summary
+   - Executive hero banner with emergency response image
+
+4. frontend/src/pages/Reports.js
+   - Excel export added
+   - Word export added
+   - PDF export added
+   - Report data comes from SQL Server view vw_AllocationReport
+
+5. frontend/src/styles/app.css
+   - Full professional dashboard styling
+   - Modern login/signup responsive UI
+   - Dark sidebar, cards, charts, buttons and report toolbar
+
+6. frontend/package.json
+   - Added recharts, xlsx, file-saver, jspdf, jspdf-autotable
+
+Updated backend files:
+1. backend/controllers/authController.js
+   - Signup now supports roleName: Admin, Operator, Viewer
+   - Password validation improved
+   - Role is saved into SQL Server Users table
+
+Recommended role usage:
+Admin = full access to all modules.
+Operator = operational user for disaster/resource/allocation work.
+Viewer = limited user for reports/dashboard monitoring.
+
+After replacing files, run:
+cd backend
+npm install
+npm start
+
+cd frontend
+npm install
+npm start

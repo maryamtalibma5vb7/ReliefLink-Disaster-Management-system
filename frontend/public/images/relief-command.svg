@@ -1,0 +1,17 @@
+<svg width="1100" height="720" viewBox="0 0 1100 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1100" height="720" rx="42" fill="#0B1220"/>
+<circle cx="922" cy="118" r="180" fill="#1D4ED8" fill-opacity="0.35"/>
+<circle cx="155" cy="611" r="240" fill="#14B8A6" fill-opacity="0.22"/>
+<path d="M109 178C202 85 335 97 424 185C513 273 634 256 732 175C830 94 971 96 1040 181V720H109V178Z" fill="#172554" fill-opacity="0.75"/>
+<rect x="118" y="92" width="864" height="510" rx="30" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.18"/>
+<rect x="164" y="145" width="274" height="154" rx="22" fill="#EF4444" fill-opacity="0.92"/>
+<rect x="472" y="145" width="200" height="154" rx="22" fill="#2563EB" fill-opacity="0.92"/>
+<rect x="706" y="145" width="230" height="154" rx="22" fill="#10B981" fill-opacity="0.92"/>
+<rect x="164" y="333" width="365" height="209" rx="22" fill="white" fill-opacity="0.12"/>
+<rect x="565" y="333" width="371" height="209" rx="22" fill="white" fill-opacity="0.12"/>
+<path d="M220 239h162M220 203h95M220 454h222M220 492h147M622 404h251M622 442h185M622 480h224" stroke="white" stroke-opacity="0.72" stroke-width="16" stroke-linecap="round"/>
+<path d="M559 193h26v28h28v26h-28v28h-26v-28h-28v-26h28v-28Z" fill="white"/>
+<path d="M778 197h86v63h-86v-63Z" stroke="white" stroke-width="16"/><path d="M745 260h150" stroke="white" stroke-width="16" stroke-linecap="round"/>
+<path d="M274 192l46 80h-92l46-80Z" stroke="white" stroke-width="16" stroke-linejoin="round"/><circle cx="274" cy="247" r="8" fill="white"/><path d="M274 218v18" stroke="white" stroke-width="14" stroke-linecap="round"/>
+<text x="164" y="642" fill="white" font-family="Arial" font-size="34" font-weight="700">Disaster Response • Resource Allocation • SQL Server DBMS</text>
+</svg>
