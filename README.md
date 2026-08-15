@@ -309,116 +309,72 @@ The project demonstrates practical implementation of several software developmen
 
 ## 🔐 Login
 
-```text
 <img width="624" height="307" alt="image" src="https://github.com/user-attachments/assets/09cc4cfb-117f-4863-a8df-aead5892c5ce" />
-
-```
 
 ## 📝 Signup
 
-```text
 <img width="612" height="282" alt="image" src="https://github.com/user-attachments/assets/b3e1726a-9ec1-4560-9484-08ac2e4e5dac" />
 <img width="344" height="201" alt="image" src="https://github.com/user-attachments/assets/1516eb01-55e5-4656-b3b5-5ab43bf17a23" />
 
-```
-
 ## 📊 Dashboard
 
-
-```text
 <img width="624" height="295" alt="image" src="https://github.com/user-attachments/assets/c404e4b5-f22f-4f21-bd45-5306ae68771c" />
-
-```
 
 ## 🚨 Disasters
 
-```text
 <img width="624" height="297" alt="image" src="https://github.com/user-attachments/assets/e824693c-070d-47cc-bddd-0761729ba45a" />
-
-```
 
 ## 🚑 Resources
 
-```text
 <img width="612" height="205" alt="image" src="https://github.com/user-attachments/assets/78873c5d-44bf-4f4c-94a4-d451b9b2ac10" />
-
-```
 
 ## 📦 Allocation
 
-```text
 <img width="624" height="289" alt="image" src="https://github.com/user-attachments/assets/707324ff-2cc9-4e67-9bd4-0518e70e3acc" />
-
-```
 
 ## 📑 Reports
 
-```text
 <img width="612" height="282" alt="image" src="https://github.com/user-attachments/assets/521a8482-70b8-45bd-a06e-2ce0e526bfbc" />
-
-```
-
----
 
 # 🗃️ Database 
 
 ## Users
 
-```text
 <img width="624" height="153" alt="image" src="https://github.com/user-attachments/assets/3eea95a7-26b8-420e-ac4b-dc5a3861a692" />
 
-```
 
 ## Allocations
 
-```text
 <img width="624" height="114" alt="image" src="https://github.com/user-attachments/assets/07cb3e22-9d9a-454a-852a-0cc6ce0e31f7" />
 
-```
 
 ## Activity Logs
 
-```text
 <img width="534" height="205" alt="image" src="https://github.com/user-attachments/assets/3e32d12b-a754-416a-84f6-db5eaba18120" />
 
-```
 
 ## Ambulances
 
-```text
+
 <img width="625" height="189" alt="image" src="https://github.com/user-attachments/assets/4f575b21-fc40-44c2-8dee-e40e17aa04e5" />
 
-```
 
 ## Disasters
 
-```text
 <img width="624" height="149" alt="image" src="https://github.com/user-attachments/assets/16036c2b-6b44-43da-8868-fe8b3b916d5e" />
 
-```
 
 ## Disaster Types
 
-```text
 <img width="506" height="244" alt="image" src="https://github.com/user-attachments/assets/773f78a6-874e-403c-8a58-24b97783964f" />
-
-```
 
 ## Food Supplies
 
-```text
 <img width="625" height="181" alt="image" src="https://github.com/user-attachments/assets/26f9151b-2edc-4e23-ad60-5da9e97e76fc" />
 
-```
 
 ## Shelters
-
-```text
 <img width="625" height="157" alt="image" src="https://github.com/user-attachments/assets/709763e5-e8cc-4255-b938-fffb166e68cd" />
-
-```
-
----
 
 # 🔌 Database Connection
 The backend connects to **Microsoft SQL Server** to store and retrieve application data.
