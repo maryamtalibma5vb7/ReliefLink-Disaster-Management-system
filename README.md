@@ -314,6 +314,7 @@ The project demonstrates practical implementation of several software developmen
 ## 📝 Signup
 
 <img width="612" height="282" alt="image" src="https://github.com/user-attachments/assets/b3e1726a-9ec1-4560-9484-08ac2e4e5dac" />
+
 <img width="344" height="201" alt="image" src="https://github.com/user-attachments/assets/1516eb01-55e5-4656-b3b5-5ab43bf17a23" />
 
 ## 📊 Dashboard
